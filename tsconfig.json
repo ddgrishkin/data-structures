@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "sourceMap": false,
+    "target": "ES5",
+    "module": "CommonJS",
+    "moduleResolution": "Node16",
+    "allowSyntheticDefaultImports": true
+  }
+}
